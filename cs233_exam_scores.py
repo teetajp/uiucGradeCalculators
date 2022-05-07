@@ -17,6 +17,7 @@ def calculate_exam_score(grade: float, total_no_final: float, exam_weight: float
 
 def main():
     print('----------------------------------------------------------------')
+    print("CS 233 SP'22")
     print('Calculator for Final Exam scores needed for each Letter Grade')
     print('Access grades at: https://canvas.illinois.edu/courses/18018/grades')
     print('-- Enter the following information from your Canvas gradebook')
